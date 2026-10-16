@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/hubmapconsortium/ccf-3d-reference-object-library",
+  "commit": "f1a3a63f110e27ff0736047d52d04dba5d3087f9",
+  "crosswalk": {
+    "file": "docs/model-source/asct-b-3d-models-crosswalk.csv",
+    "repository": "https://github.com/hubmapconsortium/ccf-releases",
+    "commit": "b036a91aaf7234f462b1249d4a5f4fb0e982f412",
+    "path": "v2.0/models/asct-b-3d-models-crosswalk.csv",
+    "doi": "https://doi.org/10.48539/HBM595.JNGT.446",
+    "sha256": "3c39c2d13d5e44562e7ce291fc4d1111279cef6c92eeefc2b68e20013d0b7f80"
+  },
+  "files": [
+    {
+      "file": "NIH_M_Lymph_Node.glb",
+      "path": "VH_Male/v1.2/NIH_M_Lymph_Node.glb",
+      "sha256": "7b047002cbb1dc06f37baa441783390d76cdb444b6144d6caa623923707953fd",
+      "bytes": 7413900,
+      "title": "3D Reference Organ for Lymph Node, Male v1.2",
+      "doi": "https://doi.org/10.48539/HBM299.VVXH.634"
+    }
+  ]
+}

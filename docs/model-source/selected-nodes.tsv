@@ -1,0 +1,8 @@
+structure	source file	node	crosswalk label	ontology id	triangles
+capsule	NIH_M_Lymph_Node.glb	Yao_capsule_of_lymph_node	capsule of lymph node	UBERON:0002194	9442
+follicles	NIH_M_Lymph_Node.glb	Yao_follicles	lymph node follicle	UBERON:0010748	5758
+paracortex	NIH_M_Lymph_Node.glb	Yao_paracortex	lymph node T cell domain	UBERON:0010417	10910
+medulla	NIH_M_Lymph_Node.glb	Yao_medulla_of_lymph_node	medulla of lymph node	UBERON:0002007	88388
+afferent-vessels	NIH_M_Lymph_Node.glb	Yao_afferent_lymphatic_vessel	afferent lymphatic vessel	UBERON:0010396	4526
+efferent-vessel	NIH_M_Lymph_Node.glb	Yao_efferent_lymph_node	efferent lymphatic vessel	UBERON:0010397	4154
+blood-vessels	NIH_M_Lymph_Node.glb	Yao_blood_vasculature	Lymph vasculature	UBERON:0004536	131485
